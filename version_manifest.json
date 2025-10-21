@@ -1,7 +1,7 @@
 {
   "latest_version": "1.0.6",
-  "release_date": "2025-10-17",
+  "release_date": "2025-10-21",
   "download_url": "https://github.com/Tacobatiz/Inventario/releases/download/v1.0.6/INVENTARIO_BETA_Setup_v1.0.6.exe",
-  "release_notes": "🧪 TEST: Update notification system working!",
+  "release_notes": "Updated build system\nImproved compatibility\nBug fixes and performance improvements",
   "minimum_version": "1.0.0"
 }
