@@ -1,7 +1,12 @@
 {
-  "latest_version": "1.0.6",
-  "release_date": "2025-10-21",
-  "download_url": "https://github.com/Tacobatiz/Inventario/releases/download/v1.0.6/INVENTARIO_BETA_Setup_v1.0.6.exe",
-  "release_notes": "Updated build system\nImproved compatibility\nBug fixes and performance improvements",
-  "minimum_version": "1.0.0"
-}
+     "version": "1.0.7",
+     "release_date": "2025-10-27",
+     "download_url": "https://github.com/Tacobatiz/Inventario/releases/download/v1.0.7/INVENTARIO_Setup_1.0.7.exe",
+     "release_notes": "Fixed Excel export column headers and data alignment",
+     "minimum_version": "1.0.0",
+     "changelog": [
+       "Fixed Excel export column header names (Pueblo/Oficina)",
+       "Fixed Activos fields column order in exports",
+       "Improved data-to-header alignment in all sheets"
+     ]
+   }
